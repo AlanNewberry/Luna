@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)]()
 
 > Escáner modular de seguridad para APIs REST, escrito en Python.
 
@@ -55,7 +54,7 @@ requests
 
 ```bash
 # Cloná el repositorio
-git clone https://github.com/44Viciius/Luna.git
+git clone https://github.com/AlanNewberry/Luna.git
 cd Luna
 
 # (Opcional) Creá un entorno virtual
